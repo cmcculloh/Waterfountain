@@ -1,5 +1,5 @@
 - [x] Get github repo set up
-- [ ] Get Heroku App Space set up
+- [x] Get Heroku App Space set up
 - [ ] Get simple express server installed
 - [ ] Push to Heroku
 - [ ] View on Heroku
