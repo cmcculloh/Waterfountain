@@ -1,7 +1,7 @@
 - [x] Get github repo set up
 - [x] Get Heroku App Space set up
 - [ ] Make a branch for the server changes
-- [ ] Get simple express server installed
+- [x] Get simple express server installed
 - [ ] Make index.html page
 - [ ] Push to Heroku QA
 - [ ] View on Heroku QA
