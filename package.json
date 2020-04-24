@@ -1,0 +1,24 @@
+{
+  "name": "waterfountain",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "hello": "echo 'this is what gets spit out'",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmcculloh/Waterfountain.git"
+  },
+  "author": "Ezekiel McCulloh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmcculloh/Waterfountain/issues"
+  },
+  "homepage": "https://github.com/cmcculloh/Waterfountain#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
