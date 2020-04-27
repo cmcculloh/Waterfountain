@@ -3,6 +3,6 @@
 - [x] Make a branch for initial index page changes
 - [x] Get simple express server installed
 - [x] Make index.html page
-- [ ] View on Heroku QA
-- [ ] Merge the branch into master
-- [ ] Deploy changes to Heroku prod
+- [x] View on Heroku QA
+- [x] Merge the branch into master
+- [x] Deploy changes to Heroku prod
